@@ -31,13 +31,15 @@ zmqpubhashtx=tcp://95.179.189.35:7777
 
 ZeroMQ notification options:
 
--zmqpubhashblock=<address>	Enable publish hash block in <address>
+-zmqpubhashblock=address	Enable publish hash block in address
  
--zmqpubhashtx=<address>	Enable publish hash transaction in <address>
+-zmqpubhashtx=address	Enable publish hash transaction in address
  
--zmqpubrawblock=<address>	Enable publish raw block in <address>
+-zmqpubrawblock=address	Enable publish raw block in address
  
--zmqpubrawtx=<address>	Enable publish raw transaction in <address>
+-zmqpubrawtx=address	Enable publish raw transaction in address
+
+
  
 
  
