@@ -21,3 +21,12 @@ Before using atomic swap be sure that you has JRE 8 (Java Runtime Environment) o
 If you don't know is any JRE present on your system or what version it is, type in terminal `java -version`.
 
 If no JRE is present you may download it from [official page](http://www.oracle.com/technetwork/java/javase/downloads/jre8-downloads-2133155.html) and install it to your system.
+
+
+![Screenshot](screen1.png)  
+
+
+
+![Screenshot](screen2.png) 
+
+
