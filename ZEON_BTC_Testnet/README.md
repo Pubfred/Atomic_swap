@@ -22,11 +22,12 @@ If you don't know is any JRE present on your system or what version it is, type 
 
 If no JRE is present you may download it from [official page](http://www.oracle.com/technetwork/java/javase/downloads/jre8-downloads-2133155.html) and install it to your system.
 
+### Buyer 
 
 ![Screenshot](screen1.png)  
 
 
-
+### Seller 
 ![Screenshot](screen2.png) 
 
 
