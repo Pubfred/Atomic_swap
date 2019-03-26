@@ -70,6 +70,6 @@ zmqpubhashtx=tcp://127.0.0.1:dddd
 Or command line like this:
 
 ```
-zeond -testnet -rpcuser=my_user_name -rpcpassword=my_awesome_password \
+zeond  -rpcuser=my_user_name -rpcpassword=my_awesome_password \
 -zmqpubhashblock=tcp://127.0.0.1:dddd -zmqpubhashtx=tcp://127.0.0.1:dddd
 ```
