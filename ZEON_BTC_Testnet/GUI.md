@@ -42,11 +42,11 @@ parameter typed in configuration file or in terminal command line on starting th
 
 **Notification port** - is a ZMQ port number to receive event message from node.
 
-**My private key** - your private key (uncompressed, raw) 
+**My private key** - your private key (uncompressed, Hex formated ) 
 for spending transaction to yourself.
 
 
-**Partner public key** - partner's public key (uncompressed, raw) 
+**Partner public key** - partner's public key (uncompressed, Hex formated) 
 for spending transaction to partner.
 
 **Amount** - amount of coins (**in satoshi**) you want to spend or receive.
